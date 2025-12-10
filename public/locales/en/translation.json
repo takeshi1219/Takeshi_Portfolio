@@ -1,0 +1,81 @@
+{
+  "app-title": "Home | Takeshi Yamamoto • AI & Full-Stack Developer Portfolio",
+  "loading": "Loading...",
+  "greetings": "Hi there, I'm ",
+  "name": "Takeshi",
+  "name-end": ".",
+  "sub-heading": "AI & Full-Stack Developer",
+  "more-info": "I'm a results-driven AI/Full-Stack Engineer with 10+ years of experience building production-grade GenAI, NLP/LLM, Computer Vision, and cloud-native systems. Based in Tokyo, I bridge cutting-edge ML research with robust software engineering.",
+  "resume-btn": "resume",
+  "about-heading": "about me",
+  "about-text-top": "I am a results-driven AI / Full-Stack Engineer with 10+ years of professional experience building production-grade GenAI, NLP/LLM, computer vision, anomaly detection, and cloud-native data systems across Japanese startups, U.S. SaaS/analytics companies, and hybrid consulting firms. I excel at bridging state-of-the-art machine-learning research and robust software engineering practices.",
+  "about-text-bottom": "I'm equally comfortable working in Japanese and English environments, collaborating with cross-cultural teams, and delivering impactful results for both product-driven startups and enterprise clients. My background spans the full ML lifecycle from data ingestion, model development and fine-tuning, to deployment, monitoring, and maintenance along with strong backend, cloud, and DevOps skills.",
+  "technology-heading": "technology",
+  "projects-heading": "projects",
+  "featured-tag": "featured project",
+  "projects": [
+    {
+      "id": 1,
+      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
+    },
+    {
+      "id": 2,
+      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
+    },
+    {
+      "id": 3,
+      "description": "Built backend ML/analytics pipelines for time-series anomaly detection and predictive maintenance. Handles >200K events/day with high accuracy and reliability."
+    },
+    {
+      "id": 4,
+      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
+    },
+    {
+      "id": 5,
+      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
+    },
+    {
+      "id": 6,
+      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
+    },
+    {
+      "id": 7,
+      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
+    },
+    {
+      "id": 8,
+      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
+    },
+    {
+      "id": 9,
+      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+    },
+    {
+      "id": 10,
+      "description": "E-commerce predictive analytics system for demand forecasting and customer behavior analysis. Improved inventory efficiency by 35%."
+    }
+  ],
+  "show-more-btn": "show more",
+  "show-less-btn": "show less",
+  "learn-more": "more info",
+  "navigation": [
+    {
+      "menuTitle": "home",
+      "href": "/#home"
+    },
+    {
+      "menuTitle": "about",
+      "href": "/#about"
+    },
+    {
+      "menuTitle": "technology",
+      "href": "/#technology"
+    },
+    {
+      "menuTitle": "projects",
+      "href": "/#projects"
+    }
+  ],
+  "footer-contact": "e-mail",
+  "footer-message": "Website by Takeshi Yamamoto"
+}

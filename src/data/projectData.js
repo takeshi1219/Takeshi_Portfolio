@@ -1,0 +1,112 @@
+export const projectData = [
+  {
+    id: crypto.randomUUID(),
+    title: 'Chatbot UI',
+    description:
+      'Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options.',
+    technologies: ['Python', 'Chabot', 'TypeScript', 'Next.js', 'Supabase'],
+    imageUrl: '/rasters/ChatbotUI.webp',
+    mobileUrl: '/rasters/ChatbotUI.webp',
+    repository: 'https://github.com/takeshi1219/chatbot-ui',
+    livelink: 'https://www.chatbotui.com/',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'AI Agent Builder',
+    description:
+      'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
+    technologies: ['OpenAI', 'Python', 'React', 'TypeScript', 'Convex'],
+    imageUrl: 'rasters/AIAgentBuilder.webp',
+    mobileUrl: 'rasters/AIAgentBuilder.webp',
+    repository: 'https://github.com/takeshi1219/Ai-Agent-Builder',
+    livelink: 'https://ai-agent-builder-kappa.vercel.app/',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Industrial Anomaly Detection',
+    description:
+      'Built backend ML/analytics pipelines for time-series anomaly detection and predictive maintenance. Handles >200K events/day with high accuracy and reliability.',
+    technologies: ['Python', 'Kafka', 'Spark', 'TensorFlow', 'Kubernetes'],
+    imageUrl: 'rasters/project-anomaly.webp',
+    mobileUrl: 'rasters/project-anomaly.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Document Processing System',
+    description:
+      'Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification.',
+    technologies: ['Python', 'Tesseract', 'spaCy', 'FastAPI', 'Redis'],
+    imageUrl: 'rasters/project-docs.webp',
+    mobileUrl: 'rasters/project-docs.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Enterprise RAG System',
+    description:
+      'End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy.',
+    technologies: ['LangChain', 'Pinecone', 'OpenAI', 'FastAPI', 'React'],
+    imageUrl: 'rasters/project-enterprise-rag.webp',
+    mobileUrl: 'rasters/project-enterprise-rag.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Voice AI Platform',
+    description:
+      'Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency.',
+    technologies: ['Whisper', 'GPT-4', 'Python', 'WebSocket', 'AWS'],
+    imageUrl: 'rasters/project-voice.webp',
+    mobileUrl: 'rasters/project-voice.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'n8n Workflow Automation',
+    description:
+      'Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients.',
+    technologies: ['n8n', 'Node.js', 'PostgreSQL', 'REST APIs', 'Docker'],
+    imageUrl: 'rasters/project-n8n.webp',
+    mobileUrl: 'rasters/project-n8n.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'MLOps Pipeline',
+    description:
+      'Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers.',
+    technologies: ['Kubernetes', 'Docker', 'MLflow', 'Airflow', 'GCP'],
+    imageUrl: 'rasters/project-mlops.webp',
+    mobileUrl: 'rasters/project-mlops.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Event Streaming Platform',
+    description:
+      'Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency.',
+    technologies: ['Kafka', 'Spark', 'Python', 'InfluxDB', 'Grafana'],
+    imageUrl: '/rasters/project-streaming.webp',
+    mobileUrl: '/rasters/project-streaming.webp',
+    repository: '#',
+    livelink: '#',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'E-commerce Analytics',
+    description:
+      'E-commerce predictive analytics system for demand forecasting and customer behavior analysis. Improved inventory efficiency by 35%.',
+    technologies: ['Python', 'scikit-learn', 'PostgreSQL', 'Airflow', 'Tableau'],
+    imageUrl: 'rasters/project-ecommerce.webp',
+    mobileUrl: 'rasters/project-ecommerce.webp',
+    repository: '#',
+    livelink: '#',
+  },
+];
