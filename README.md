@@ -1,5 +1,5 @@
 # Takashi Yamamoto - Senior Full-Stack & AI Engineer Portfolio
-
+![App Screenshot](https://github.com/takeshi1219/Takeshi_Portfolio/blob/main/home.png)
 <div align="center">
   <h3>Senior Full-Stack & AI Engineer | Tokyo, Japan</h3>
 </div>
