@@ -41,7 +41,7 @@ const Sidebar = () => {
             whileHover='visible'
             animate='hidden'
             variants={socialIconVariants}
-            href='https://jp.linkedin.com/in/takashi-yamamoto-682a67238'
+            href='https://www.linkedin.com/in/takashi-yamamoto-682a67238/'
             aria-label='LinkedIn'
             target='_blank'
             rel='noreferrer noopener'

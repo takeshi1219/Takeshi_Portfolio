@@ -1,7 +1,7 @@
 # Takashi Yamamoto
 **Senior Full-Stack & AI Engineer**
 
-📍 Tokyo, Japan | 📧 Contact via Portfolio | 🔗 [GitHub](https://github.com/takeshi1219) | 🔗 [LinkedIn](https://jp.linkedin.com/in/takashi-yamamoto-682a67238)
+📍 Tokyo, Japan | 📧 Contact via Portfolio | 🔗 [GitHub](https://github.com/takeshi1219) | 🔗 [LinkedIn](https://www.linkedin.com/in/takashi-yamamoto-682a67238/)
 
 ---
 
