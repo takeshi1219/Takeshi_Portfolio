@@ -1,48 +1,52 @@
 export const skillData = [
+  // Front-End
   {
     id: crypto.randomUUID(),
-    technology: 'Python',
+    technology: 'React.js',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'PyTorch',
+    technology: 'Next.js',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'TensorFlow',
+    technology: 'Vue.js',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'LangChain',
+    technology: 'TypeScript',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'OpenAI API',
+    technology: 'Tailwind CSS',
   },
-  {
-    id: crypto.randomUUID(),
-    technology: 'RAG',
-  },
-  {
-    id: crypto.randomUUID(),
-    technology: 'NLP/LLM',
-  },
-  {
-    id: crypto.randomUUID(),
-    technology: 'Computer Vision',
-  },
-  {
-    id: crypto.randomUUID(),
-    technology: 'React/Next.js',
-  },
+  // Back-End
   {
     id: crypto.randomUUID(),
     technology: 'Node.js',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Go',
+    technology: 'Python',
   },
+  {
+    id: crypto.randomUUID(),
+    technology: 'PHP/Laravel',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'GraphQL',
+  },
+  // Mobile
+  {
+    id: crypto.randomUUID(),
+    technology: 'React Native',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Flutter',
+  },
+  // Databases
   {
     id: crypto.randomUUID(),
     technology: 'PostgreSQL',
@@ -53,23 +57,29 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Redis',
+    technology: 'MySQL',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Elasticsearch',
+    technology: 'Firebase',
+  },
+  // AI/ML
+  {
+    id: crypto.randomUUID(),
+    technology: 'LangChain',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Kafka',
+    technology: 'OpenAI API',
   },
+  {
+    id: crypto.randomUUID(),
+    technology: 'RAG/NLP',
+  },
+  // DevOps & Tools
   {
     id: crypto.randomUUID(),
     technology: 'Docker',
-  },
-  {
-    id: crypto.randomUUID(),
-    technology: 'Kubernetes',
   },
   {
     id: crypto.randomUUID(),
@@ -77,11 +87,7 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
-    technology: 'n8n',
-  },
-  {
-    id: crypto.randomUUID(),
-    technology: 'Airflow',
+    technology: 'Git/GitHub',
   },
   {
     id: crypto.randomUUID(),

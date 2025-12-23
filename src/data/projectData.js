@@ -1,17 +1,6 @@
 export const projectData = [
   {
     id: crypto.randomUUID(),
-    title: 'Chatbot UI',
-    description:
-      'Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options.',
-    technologies: ['Python', 'Chabot', 'TypeScript', 'Next.js', 'Supabase'],
-    imageUrl: '/rasters/ChatbotUI.webp',
-    mobileUrl: '/rasters/ChatbotUI.webp',
-    repository: 'https://github.com/takeshi1219/chatbot-ui',
-    livelink: 'https://www.chatbotui.com/',
-  },
-  {
-    id: crypto.randomUUID(),
     title: 'AI Agent Builder',
     description:
       'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
@@ -23,14 +12,25 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
-    title: 'Industrial Anomaly Detection',
+    title: 'MedAssist RAG',
     description:
-      'Built backend ML/analytics pipelines for time-series anomaly detection and predictive maintenance. Handles >200K events/day with high accuracy and reliability.',
-    technologies: ['Python', 'Kafka', 'Spark', 'TensorFlow', 'Kubernetes'],
-    imageUrl: 'rasters/project-anomaly.webp',
-    mobileUrl: 'rasters/project-anomaly.webp',
-    repository: '#',
-    livelink: '#',
+      'AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers.',
+    technologies: ['LangChain', 'OpenAI', 'Pinecone', 'FastAPI', 'Next.js'],
+    imageUrl: '/rasters/MedAssist RAG.webp',
+    mobileUrl: '/rasters/MedAssist RAG.webp',
+    repository: 'https://github.com/takeshi1219/medassist-rag',
+    livelink: 'https://medassist-rag.vercel.app/',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Chatbot UI',
+    description:
+      'Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options.',
+    technologies: ['Python', 'Chabot', 'TypeScript', 'Next.js', 'Supabase'],
+    imageUrl: '/rasters/ChatbotUI.webp',
+    mobileUrl: '/rasters/ChatbotUI.webp',
+    repository: 'https://github.com/takeshi1219/chatbot-ui',
+    livelink: 'https://www.chatbotui.com/',
   },
   {
     id: crypto.randomUUID(),

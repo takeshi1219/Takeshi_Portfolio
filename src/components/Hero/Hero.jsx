@@ -71,7 +71,7 @@ const Hero = () => {
                     whileTap={
                       shouldReduceMotion ? { scale: 1 } : { scale: 0.97 }
                     }
-                    href='/Takeshi-Yamamoto-Resume.pdf'
+                    href='/Takashi-Yamamoto-Resume.pdf'
                     target='_blank'
                     rel='noopener noreferrer'
                   >

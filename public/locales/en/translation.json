@@ -1,30 +1,30 @@
 {
-  "app-title": "Home | Takeshi Yamamoto • AI & Full-Stack Developer Portfolio",
+  "app-title": "Home | Takashi Yamamoto • Senior Full-Stack & AI Engineer Portfolio",
   "loading": "Loading...",
   "greetings": "Hi there, I'm ",
-  "name": "Takeshi",
+  "name": "Takashi",
   "name-end": ".",
-  "sub-heading": "AI & Full-Stack Developer",
-  "more-info": "I'm a results-driven AI/Full-Stack Engineer with 10+ years of experience building production-grade GenAI, NLP/LLM, Computer Vision, and cloud-native systems. Based in Tokyo, I bridge cutting-edge ML research with robust software engineering.",
+  "sub-heading": "Senior Full-Stack & AI Engineer",
+  "more-info": "Senior Software Engineer with 10+ years of experience in full-stack development and AI/ML engineering. Based in Tokyo, I specialize in building high-quality web applications, AI-powered solutions, and scalable backend systems for startups and enterprise clients.",
   "resume-btn": "resume",
   "about-heading": "about me",
-  "about-text-top": "I am a results-driven AI / Full-Stack Engineer with 10+ years of professional experience building production-grade GenAI, NLP/LLM, computer vision, anomaly detection, and cloud-native data systems across Japanese startups, U.S. SaaS/analytics companies, and hybrid consulting firms. I excel at bridging state-of-the-art machine-learning research and robust software engineering practices.",
-  "about-text-bottom": "I'm equally comfortable working in Japanese and English environments, collaborating with cross-cultural teams, and delivering impactful results for both product-driven startups and enterprise clients. My background spans the full ML lifecycle from data ingestion, model development and fine-tuning, to deployment, monitoring, and maintenance along with strong backend, cloud, and DevOps skills.",
+  "about-text-top": "Highly motivated Senior Software Engineer with 8 years of experience in front-end development and 5 years in back-end development. I have a proven track record in building high-quality web and mobile applications from scratch, particularly within startups and freelance environments. My expertise lies in delivering clean, useful, and 100% customer-focused products.",
+  "about-text-bottom": "Recently, I've expanded into AI/ML engineering, building backend ML/analytics pipelines for time-series anomaly detection at Seeq Corporation, and currently leading AI solutions including multilingual NLP/RAG pipelines at SBWorks. I'm equally comfortable working in Japanese and English environments, collaborating with cross-cultural teams across the globe.",
   "technology-heading": "technology",
   "projects-heading": "projects",
   "featured-tag": "featured project",
   "projects": [
     {
       "id": 1,
-      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
-    },
-    {
-      "id": 2,
       "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
     },
     {
+      "id": 2,
+      "description": "AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers."
+    },
+    {
       "id": 3,
-      "description": "Built backend ML/analytics pipelines for time-series anomaly detection and predictive maintenance. Handles >200K events/day with high accuracy and reliability."
+      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
     },
     {
       "id": 4,
@@ -77,5 +77,5 @@
     }
   ],
   "footer-contact": "e-mail",
-  "footer-message": "Website by Takeshi Yamamoto"
+  "footer-message": "Website by Takashi Yamamoto"
 }
