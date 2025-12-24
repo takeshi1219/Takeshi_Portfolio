@@ -1,14 +1,14 @@
 export const projectData = [
   {
     id: crypto.randomUUID(),
-    title: 'AI Agent Builder',
+    title: 'LeadPulse AI',
     description:
-      'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
-    technologies: ['OpenAI', 'Python', 'React', 'TypeScript', 'Convex'],
-    imageUrl: 'rasters/AIAgentBuilder.webp',
-    mobileUrl: 'rasters/AIAgentBuilder.webp',
-    repository: 'https://github.com/takeshi1219/Ai-Agent-Builder',
-    livelink: 'https://ai-agent-builder-kappa.vercel.app/',
+      'B2B Sales Intelligence SaaS platform with AI-powered lead generation, intelligent scoring, and interactive analytics dashboards. Features GPT-4 powered sales assistant, automated outreach generation, and real-time pipeline visualization.',
+    technologies: ['Next.js', 'TypeScript', 'Python', 'FastAPI', 'OpenAI'],
+    imageUrl: '/rasters/LeadPulseAI.png',
+    mobileUrl: '/rasters/LeadPulseAI.png',
+    repository: 'https://github.com/takeshi1219/LeadPulse-AI',
+    livelink: 'https://lead-pulse-ai.vercel.app/',
   },
   {
     id: crypto.randomUUID(),
@@ -20,6 +20,17 @@ export const projectData = [
     mobileUrl: '/rasters/MedAssist RAG.png',
     repository: 'https://github.com/takeshi1219/medassist-rag',
     livelink: 'https://medassist-rag.vercel.app/',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'AI Agent Builder',
+    description:
+      'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
+    technologies: ['OpenAI', 'Python', 'React', 'TypeScript', 'Convex'],
+    imageUrl: 'rasters/AIAgentBuilder.webp',
+    mobileUrl: 'rasters/AIAgentBuilder.webp',
+    repository: 'https://github.com/takeshi1219/Ai-Agent-Builder',
+    livelink: 'https://ai-agent-builder-kappa.vercel.app/',
   },
   {
     id: crypto.randomUUID(),

@@ -16,7 +16,7 @@
   "projects": [
     {
       "id": 1,
-      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
+      "description": "B2B Sales Intelligence SaaS platform with AI-powered lead generation, intelligent scoring, and interactive analytics dashboards. Features GPT-4 powered sales assistant, automated outreach generation, and real-time pipeline visualization."
     },
     {
       "id": 2,
@@ -24,38 +24,42 @@
     },
     {
       "id": 3,
-      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
+      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
     },
     {
       "id": 4,
-      "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
+      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
     },
     {
       "id": 5,
-      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
+      "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
     },
     {
       "id": 6,
-      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
+      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
     },
     {
       "id": 7,
-      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
+      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
     },
     {
       "id": 8,
-      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
+      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
     },
     {
       "id": 9,
-      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
+      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
     },
     {
       "id": 10,
-      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
     },
     {
       "id": 11,
+      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+    },
+    {
+      "id": 12,
       "description": "E-commerce predictive analytics system for demand forecasting and customer behavior analysis. Improved inventory efficiency by 35%."
     }
   ],
