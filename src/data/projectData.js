@@ -34,6 +34,17 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
+    title: 'NLP Chatbot',
+    description:
+      'Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus.',
+    technologies: ['Python', 'Flask', 'ChatterBot', 'NLTK', 'SQLite'],
+    imageUrl: '/rasters/ChatBot.png',
+    mobileUrl: '/rasters/ChatBot.png',
+    repository: 'https://github.com/takeshi1219/Chatbot-with-NLP',
+    livelink: 'https://chatbot-with-nlp.onrender.com/',
+  },
+  {
+    id: crypto.randomUUID(),
     title: 'Document Processing System',
     description:
       'Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification.',

@@ -28,30 +28,34 @@
     },
     {
       "id": 4,
-      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
+      "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
     },
     {
       "id": 5,
-      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
+      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
     },
     {
       "id": 6,
-      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
+      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
     },
     {
       "id": 7,
-      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
+      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
     },
     {
       "id": 8,
-      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
+      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
     },
     {
       "id": 9,
-      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
     },
     {
       "id": 10,
+      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+    },
+    {
+      "id": 11,
       "description": "E-commerce predictive analytics system for demand forecasting and customer behavior analysis. Improved inventory efficiency by 35%."
     }
   ],
