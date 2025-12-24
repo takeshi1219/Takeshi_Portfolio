@@ -16,8 +16,8 @@ export const projectData = [
     description:
       'AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers.',
     technologies: ['LangChain', 'OpenAI', 'Pinecone', 'FastAPI', 'Next.js'],
-    imageUrl: '/rasters/MedAssist RAG.webp',
-    mobileUrl: '/rasters/MedAssist RAG.webp',
+    imageUrl: '/rasters/MedAssist RAG.png',
+    mobileUrl: '/rasters/MedAssist RAG.png',
     repository: 'https://github.com/takeshi1219/medassist-rag',
     livelink: 'https://medassist-rag.vercel.app/',
   },
