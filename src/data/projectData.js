@@ -12,6 +12,17 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
+    title: 'ChatGPT Clone',
+    description:
+      'Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support.',
+    technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'OpenAI'],
+    imageUrl: '/rasters/ChatGPT.png',
+    mobileUrl: '/rasters/ChatGPT.png',
+    repository: 'https://github.com/takeshi1219/ChatGPT-MERN',
+    livelink: 'https://chatgpt-mern-dgof.onrender.com/',
+  },
+  {
+    id: crypto.randomUUID(),
     title: 'MedAssist RAG',
     description:
       'AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers.',

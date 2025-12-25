@@ -20,46 +20,50 @@
     },
     {
       "id": 2,
-      "description": "AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers."
+      "description": "Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support."
     },
     {
       "id": 3,
-      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
+      "description": "AI-powered clinical decision support system using RAG architecture to query medical literature, drug interactions, and treatment guidelines. Supports Japanese and English medical terminology with citation-backed answers."
     },
     {
       "id": 4,
-      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
+      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
     },
     {
       "id": 5,
-      "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
+      "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
     },
     {
       "id": 6,
-      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
+      "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
     },
     {
       "id": 7,
-      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
+      "description": "Designed scalable document processing system handling >500K documents/month. Features multilingual OCR, NLP extraction, and intelligent classification."
     },
     {
       "id": 8,
-      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
+      "description": "End-to-end RAG system with vector databases, semantic search, and LLM integration. Supports enterprise knowledge management with high retrieval accuracy."
     },
     {
       "id": 9,
-      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
+      "description": "Voice AI system with real-time speech recognition, natural language understanding, and text-to-speech. Supports Japanese and English with low latency."
     },
     {
       "id": 10,
-      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
+      "description": "Automated business workflows using n8n, integrating AI services, databases, and external APIs. Reduced manual processes by 80% for enterprise clients."
     },
     {
       "id": 11,
-      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+      "description": "Cloud-native MLOps pipeline with Docker, Kubernetes, and CI/CD automation. Features model versioning, A/B testing, and automated retraining triggers."
     },
     {
       "id": 12,
+      "description": "Real-time event streaming platform using Kafka and Spark. Processes high-volume data for industrial analytics with sub-second latency."
+    },
+    {
+      "id": 13,
       "description": "E-commerce predictive analytics system for demand forecasting and customer behavior analysis. Improved inventory efficiency by 35%."
     }
   ],
