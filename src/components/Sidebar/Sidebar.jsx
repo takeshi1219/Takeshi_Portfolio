@@ -3,7 +3,6 @@ import { StyledSidebarContainer } from '../../styles/Sidebar/StyledSidebarContai
 import { StyledSocialList } from '../../styles/Sidebar/StyledSocialList';
 import { StyledSocialLink } from '../../styles/Sidebar/StyledSocialLink';
 import GithubSVG from '/src/assets/icons/github.svg';
-import LinkedInSVG from '/src/assets/icons/linkedin.svg';
 import MailSVG from '/src/assets/icons/mail.svg';
 import { socialIconVariants, socialListVariants } from '../../utils/animations';
 import { useReducedMotion } from 'framer-motion';
@@ -33,20 +32,6 @@ const Sidebar = () => {
             rel='noreferrer noopener'
           >
             <GithubSVG />
-          </motion.a>
-        </StyledSocialLink>
-        <StyledSocialLink atBottom={atBottom}>
-          <motion.a
-            initial='hidden'
-            whileHover='visible'
-            animate='hidden'
-            variants={socialIconVariants}
-            href='https://www.linkedin.com/in/takashi-yamamoto-682a67238/'
-            aria-label='LinkedIn'
-            target='_blank'
-            rel='noreferrer noopener'
-          >
-            <LinkedInSVG />
           </motion.a>
         </StyledSocialLink>
         <StyledSocialLink atBottom={atBottom}>
