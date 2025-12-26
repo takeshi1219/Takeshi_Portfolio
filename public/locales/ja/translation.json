@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "description": "MERNスタック（MongoDB、Express.js、React、Node.js）とOpenAI GPT-3.5 Turbo APIで構築したフルスタックChatGPTクローン。認証、Google OAuth、リアルタイムAIチャット、MongoDB自動保存、チャット履歴、ダーク/ライトモード、PWAサポートを実装。"
+      "description": "AI Agent Builderは、直感的なビジュアルインターフェースを通じて、洗練されたAI駆動の自動化ワークフローを作成できるツールです。モダンなフルスタックアーキテクチャで構築され、リアルタイムコラボレーション、サーバーレスコンピューティング、インテリジェントエージェントオーケストレーションのエンタープライズレベルのパターンを実装。"
     },
     {
       "id": 3,
@@ -28,15 +28,15 @@
     },
     {
       "id": 4,
-      "description": "AI Agent Builderは、直感的なビジュアルインターフェースを通じて、洗練されたAI駆動の自動化ワークフローを作成できるツールです。モダンなフルスタックアーキテクチャで構築され、リアルタイムコラボレーション、サーバーレスコンピューティング、インテリジェントエージェントオーケストレーションのエンタープライズレベルのパターンを実装。"
-    },
-    {
-      "id": 5,
       "description": "TypeScriptとNext.jsで構築されたオープンソースAIチャットアプリケーション。バックエンドストレージにSupabaseを使用。バージョン2.0は様々なAIモデルに対応し、DockerとVercelでのデプロイオプションをサポート。"
     },
     {
-      "id": 6,
+      "id": 5,
       "description": "FlaskとChatterBotで構築された会話型AIチャットボット。NLTKを使用した自然言語処理でユーザーメッセージを理解し応答。リアルタイムチャットインターフェースを備え、英語会話コーパスで学習済み。"
+    },
+    {
+      "id": 6,
+      "description": "MERNスタック（MongoDB、Express.js、React、Node.js）とOpenAI GPT-3.5 Turbo APIで構築したフルスタックChatGPTクローン。認証、Google OAuth、リアルタイムAIチャット、MongoDB自動保存、チャット履歴、ダーク/ライトモード、PWAサポートを実装。"
     },
     {
       "id": 7,

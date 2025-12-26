@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "description": "Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support."
+      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
     },
     {
       "id": 3,
@@ -28,15 +28,15 @@
     },
     {
       "id": 4,
-      "description": "AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration."
-    },
-    {
-      "id": 5,
       "description": "Open-source AI chat application built with TypeScript and Next.js, it uses Supabase for backend storage. Version 2.0 supports various AI models with Docker and Vercel deployment options."
     },
     {
-      "id": 6,
+      "id": 5,
       "description": "Conversational AI chatbot built with Flask and ChatterBot. Uses natural language processing with NLTK to understand and respond to user messages. Features real-time chat interface and trained on English conversation corpus."
+    },
+    {
+      "id": 6,
+      "description": "Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support."
     },
     {
       "id": 7,

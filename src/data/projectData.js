@@ -12,14 +12,14 @@ export const projectData = [
   },
   {
     id: crypto.randomUUID(),
-    title: 'ChatGPT Clone',
+    title: 'AI Agent Builder',
     description:
-      'Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'OpenAI'],
-    imageUrl: '/rasters/ChatGPT.png',
-    mobileUrl: '/rasters/ChatGPT.png',
-    repository: 'https://github.com/takeshi1219/ChatGPT-MERN',
-    livelink: 'https://chatgpt-mern-dgof.onrender.com/',
+      'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
+    technologies: ['OpenAI', 'Python', 'React', 'TypeScript', 'Convex'],
+    imageUrl: 'rasters/AIAgentBuilder.webp',
+    mobileUrl: 'rasters/AIAgentBuilder.webp',
+    repository: 'https://github.com/takeshi1219/Ai-Agent-Builder',
+    livelink: 'https://ai-agent-builder-kappa.vercel.app/',
   },
   {
     id: crypto.randomUUID(),
@@ -31,17 +31,6 @@ export const projectData = [
     mobileUrl: '/rasters/MedAssist RAG.png',
     repository: 'https://github.com/takeshi1219/medassist-rag',
     livelink: 'https://medassist-rag.vercel.app/',
-  },
-  {
-    id: crypto.randomUUID(),
-    title: 'AI Agent Builder',
-    description:
-      'AI Agent Builder empowers users to create sophisticated AI-powered automation workflows through an intuitive visual interface. Built with modern full-stack architecture, it demonstrates enterprise-level patterns for real-time collaboration, serverless computing, and intelligent agent orchestration.',
-    technologies: ['OpenAI', 'Python', 'React', 'TypeScript', 'Convex'],
-    imageUrl: 'rasters/AIAgentBuilder.webp',
-    mobileUrl: 'rasters/AIAgentBuilder.webp',
-    repository: 'https://github.com/takeshi1219/Ai-Agent-Builder',
-    livelink: 'https://ai-agent-builder-kappa.vercel.app/',
   },
   {
     id: crypto.randomUUID(),
@@ -64,6 +53,17 @@ export const projectData = [
     mobileUrl: '/rasters/ChatBot.png',
     repository: 'https://github.com/takeshi1219/Chatbot-with-NLP',
     livelink: 'https://chatbot-with-nlp.onrender.com/',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'ChatGPT Clone',
+    description:
+      'Full-stack ChatGPT clone built with the MERN stack (MongoDB, Express.js, React, Node.js) using OpenAI GPT-3.5 Turbo API. Features authentication, Google OAuth, real-time AI chat, auto-save to MongoDB, chat history, dark/light mode, and PWA support.',
+    technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'OpenAI'],
+    imageUrl: '/rasters/ChatGPT.png',
+    mobileUrl: '/rasters/ChatGPT.png',
+    repository: 'https://github.com/takeshi1219/ChatGPT-MERN',
+    livelink: 'https://chatgpt-mern-dgof.onrender.com/',
   },
   {
     id: crypto.randomUUID(),
